@@ -5,11 +5,14 @@
 
 - 🌱 I’m currently learning **Python, Earthly and Concourse CI**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/weyderfs](https://linktr.ee/weyderfs)
+- 👨‍💻 My links are available at:
+    - [Terraform AWS Modules](https://github.com/weyderfs/terraform-aws-modules)
+    - [TGENV - Terragrunt Version Manager](https://github.com/tgenv/tgenv)
+    -  [@linktr.ee/weyderfs](https://linktr.ee/weyderfs)
 
 - 📝 I regularly write articles on [https://sysdevops.com.br](https://sysdevops.com.br)
 
-- 💬 Ask me about **Terragrunt, AWS, Kubernetes**
+- 💬 Ask me about **Terragrunt, AWS, Kubernetes and Observability**
 
 - 📫 How to reach me **weyderfs@gmail.com**
 
