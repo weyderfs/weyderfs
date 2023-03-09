@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Earthly and Concourse CI**
+- 🌱 I’m currently learning **Python, [Earthly](https://github.com/earthly/earthly) and [Concourse CI](https://concourse-ci.org/)**
 
 - 👨‍💻 My links are available at:
     - [Terraform AWS Modules](https://github.com/weyderfs/terraform-aws-modules)
