@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
 
-- 🌱 I’m currently learning **Python, [Earthly](https://github.com/earthly/earthly) and [Concourse CI](https://concourse-ci.org/)**
+- 🌱 I’m currently learning **Python and GCP**
 - 📝 I regularly write articles on [https://sysdevops.com.br](https://sysdevops.com.br)
 - 💬 Ask me about **Terragrunt, AWS, Kubernetes and Observability**
 
