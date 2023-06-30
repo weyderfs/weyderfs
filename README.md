@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/weyderfs/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@weyderfs" height="30" width="30" /></a>
-<a href="https://devops.stackexchange.com/users/18637/weyder-ferreira" target="blank"><img align="center" src="https://seeklogo.com//images/S/stack-exchange-logo-0E3E87AB41-seeklogo.com.png" alt="18637" height="30" width="30" /></a> <a href="https://linktr.ee/weyderfs" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="weyderfs" height="30" width="30" /></a>
+<a href="https://devops.stackexchange.com/users/18637/weyder-ferreira" target="blank"><img align="center" src="https://seeklogo.com//images/S/stack-exchange-logo-0E3E87AB41-seeklogo.com.png" alt="18637" height="30" width="30" /></a> <a 
 </p>
 
 #### Cloud Providers
