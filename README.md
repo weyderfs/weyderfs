@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Weyder Ferreira dos Santos</h1>
+<h1 align="center">Hi 👋, I'm Weyder </h1>
 <h3 align="center">A passionate SRE/DevOps Engineer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
