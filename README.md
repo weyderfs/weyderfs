@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Weyder Ferreira dos Santos</h1>
-<h3 align="center">A passionate SRE from Brazil</h3>
+<h3 align="center">A passionate SRE/DevOps Engineer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
 
-- 🌱 I’m currently learning **Python and GCP**
+- 🌱 I’m currently learning **Python, Go Lang and GCP**
 - 💬 Ask me about **Terragrunt, AWS, Kubernetes and Observability**
 
 <h3 align="left">Connect with me:</h3>
