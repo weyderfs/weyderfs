@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Go Lang and GCP**
 - 💬 Ask me about **Terragrunt, AWS, Kubernetes and Observability**
+- ▶️ I've been creating contents in 🇧🇷 Portuguese about OPS in my [YoutTube channel](https://www.youtube.com/@opstalks)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
