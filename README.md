@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Weyder </h1>
 <h3 align="center">A passionate SRE/DevOps Engineer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Go Lang and GCP**
-- 💬 Ask me about **Terragrunt, AWS, Kubernetes and Observability**
-- ▶️ I've been creating contents in 🇧🇷 Portuguese about OPS in my [YoutTube channel](https://www.youtube.com/@opstalks)
+- 🌱 I’m currently learning **Python, Go Lang and GCP**.
+- 💬 Ask me about **Terragrunt, AWS, Kubernetes and Observability**.
+- ▶️ I've been creating contents in 🇧🇷 Portuguese about OPS in my [YoutTube channel](https://www.youtube.com/@opstalks).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/weyderfs/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@weyderfs" height="30" width="30" /></a>
 <a href="https://devops.stackexchange.com/users/18637/weyder-ferreira" target="blank"><img align="center" src="https://seeklogo.com//images/S/stack-exchange-logo-0E3E87AB41-seeklogo.com.png" alt="18637" height="30" width="30" /></a> <a 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weyderfs&show_icons=true&locale=en&layout=compact" alt="weyderfs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weyderfs&show_icons=true&locale=en" alt="weyderfs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weyderfs&" alt="weyderfs" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
 
 #### Cloud Providers
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
@@ -40,10 +46,4 @@
 
 #### Operation System
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weyderfs&show_icons=true&locale=en&layout=compact" alt="weyderfs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weyderfs&show_icons=true&locale=en" alt="weyderfs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weyderfs&" alt="weyderfs" /></p>
 
