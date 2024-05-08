@@ -23,7 +23,7 @@
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
 
 #### IaC - Infrastructure as Code
-<a href="https://terragrunt.gruntwork.io/" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/5ceab5395d0f478e169de7c0/624c7fa12617224fc962dbc1_451c24614aece67849fd62d0432d77ecd00735c6.png" alt="terragrunt" width="45" height="45"/></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/Terraform-1329545833434920628.png" alt="terraform" width="40" height="40"/></a>
+<a href="https://terragrunt.gruntwork.io/" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/5ceab5395d0f478e169de7c0/624c7fa12617224fc962dbc1_451c24614aece67849fd62d0432d77ecd00735c6.png" alt="terragrunt" width="45" height="45"/></a>
 
 #### Programming Languages
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
