@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Weyder </h1>
-<h3 align="center">A passionate SRE/DevOps Engineer from Brazil</h3>
+<h3 align="center">A passionate SRE from Brazil</h3>
 
-- 🌱 I’m currently learning **Python**.
-- 💬 Ask me about **Terragrunt, AWS, Kubernetes and Observability**.
+- 🌱 I'm currently learning **Python and FastAPI**.
+- 💬 Ask me about **Terragrunt, AWS, Kubernetes and Observability (Kube Prometheus Stack, Grafana and ECK (Elastic Cloud Kubernetes)**.
+- 🔨 I'm one of the current maintainers of the [TGEnv](https://github.com/tgenv/tgenv).
 - ▶️ I've been creating contents in 🇧🇷 Portuguese about OPS in my [YoutTube channel](https://www.youtube.com/@opstalks).
 
 <h3 align="left">Connect with me:</h3>
