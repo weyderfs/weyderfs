@@ -2,7 +2,7 @@
 <h3 align="center">A passionate SRE from Brazil</h3>
 
 - 🌱 I'm currently learning **Python and FastAPI**.
-- 💬 Ask me about: **Terragrunt, AWS, Kubernetes and Observability (Kube Prometheus Stack and ECK (Elastic Cloud Kubernetes)**.
+- 💬 Ask me about: **Terragrunt, AWS, Kubernetes and Observability (Kube Prometheus Stack and ECK - Elastic Cloud Kubernetes)**.
 - 🔨 I'm one of the current maintainers of the [TGEnv](https://github.com/tgenv/tgenv).
 - ▶️ I've been creating contents in 🇧🇷 Portuguese about OPS in my [YoutTube channel](https://www.youtube.com/@opstalks).
 
