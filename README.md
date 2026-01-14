@@ -11,12 +11,6 @@
 <a href="https://www.linkedin.com/in/weyderfs/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@weyderfs" height="30" width="30" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weyderfs&show_icons=true&locale=en&layout=compact" alt="weyderfs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weyderfs&show_icons=true&locale=en" alt="weyderfs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weyderfs&" alt="weyderfs" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
 
 #### Cloud Providers
