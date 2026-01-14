@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/weyderfs/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@weyderfs" height="30" width="30" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy-fork-two.vercel.app"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=weyderfs" alt="weyderfs" /></a> </p>
 
 #### Cloud Providers
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
